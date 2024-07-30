@@ -1,19 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27F732&background=C175FF00&center=true&vCenter=true&width=435&separator=%3C&lines=Ol%C3%A1!+Sou+Igor+Daniel+.+.+%3CDesenvolvedor+Backend+.+.+%3CSou+de+Recife%2C+Brasil;)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27F732&background=C175FF00&width=600&height=60&separator=%3C&lines=Ol%C3%A1!+Sou+Igor+Daniel+.+.+.%3CDesenvolvedor+Backend+Junior+.+.+.%3CSou+de+Recife%2C+Brasil;">
+</div>
 
 <br><br><br>
 
 <div align="center">
   <a href="https://github.com/IgorDanielS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorDanielS&show_icons=true&theme=highcontrast&rank_icon=github&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorDanielS&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDanielS&layout=compact">
 </div>
 
+<hr>
+
+<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #27F732;">
+  <strong>💻 Estudante de tecnologia com experiência em projetos frontend, análise de dados e low-code. Meu objetivo é tornar-me um profissional backend. Para isso, faço cursos e bootcamps online, além de estar na faculdade. Tenho alguns projetos aqui para colocar em prática meus estudos; sinta-se à vontade para explorá-los. 💻 </strong>
+</p>
+
+<hr>
+
 <div align="center">
-  <h2> Tecnologias que utilizo: </h2>
-  <br>
+  <h2>Tecnologias e Ferramentas</h2> 
+
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
@@ -27,10 +36,20 @@
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">        
 </div>
+<h2></h2>
+<br><br>
+<hr>
+<p align="left"> 
+➜ 💼 Atualmente estou a procura de emprego na área<br/>
+➜ 📚 Técnico em Análise e Desenvolvimento de Sistemas <br/>  
+➜ 📚 Graduando em Sistemas para Internet, na Universidade Católica de Pernambuco<br/>	
+</p>
 
-## 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=footer"/>
 
-<div align="center"> 
+
+<div align="left"> 
+  <h2> Quer me contatar? </h2>
   <a href = "mailto:igordaniel1903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-daniel-a73037211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
