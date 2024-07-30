@@ -15,7 +15,7 @@
 <hr>
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; color: #27F732;">
-  <strong>💻 Estudante de tecnologia com experiência em projetos frontend, análise de dados e low-code. Meu objetivo é tornar-me um profissional backend. Para isso, faço cursos e bootcamps online, além de estar na faculdade. Tenho alguns projetos aqui para colocar em prática meus estudos; sinta-se à vontade para explorá-los. 💻 </strong>
+<strong>💻 Estudante de tecnologia com experiência em projetos frontend, análise de dados e low-code. Meu objetivo é tornar-me um profissional backend. Para isso, faço cursos e bootcamps online, além de estar na faculdade. Tenho alguns projetos aqui para colocar em prática meus estudos; sinta-se à vontade para explorá-los. 💻 </strong>
 </p>
 
 <hr>
@@ -36,20 +36,23 @@
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">        
 </div>
+
 <h2></h2>
+
 <br><br>
+
 <hr>
+
 <p align="left"> 
 ➜ 💼 Atualmente estou a procura de emprego na área<br/>
 ➜ 📚 Técnico em Análise e Desenvolvimento de Sistemas <br/>  
 ➜ 📚 Graduando em Sistemas para Internet, na Universidade Católica de Pernambuco<br/>	
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=footer"/>
-
-
 <div align="left"> 
   <h2> Quer me contatar? </h2>
   <a href = "mailto:igordaniel1903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-daniel-a73037211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=footer"/>
