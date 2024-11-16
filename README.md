@@ -15,7 +15,7 @@
 <hr>
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; color: #27F732;">
-<strong>💻 Estudante de tecnologia com experiência em projetos fullstack, análise de dados e low-code. Meu objetivo é tornar-me um profissional Engenheiro de Software Para isso, faço cursos e bootcamps online, além de estar na faculdade. Tenho alguns projetos aqui para colocar em prática meus estudos; sinta-se à vontade para explorá-los. 💻 </strong>
+<strong>💻 Estudante de tecnologia com experiência em projetos fullstack, análise de dados e low-code. Meu objetivo é tornar-me um profissional Engenheiro de Software. Para isso, estudo todo dia, faço cursos e bootcamps online, além de estar na faculdade. Tenho alguns projetos aqui para colocar em prática meus estudos; sinta-se à vontade para explorá-los. 💻 </strong>
 </p>
 
 <hr>
