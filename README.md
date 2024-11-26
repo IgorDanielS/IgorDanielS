@@ -28,6 +28,7 @@
   <img align="center" alt="" height="60" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"> 
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="" height="60" width="70" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000">
   <img align="center" alt="" height="60" width="70" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000">
@@ -35,7 +36,7 @@
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
   <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"> 
-  <img align="center" alt="" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
+  
   
 </div>
 
