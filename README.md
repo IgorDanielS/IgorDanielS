@@ -3,9 +3,6 @@
 <div align="center">
 <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sou+Igor+Daniel+;Desenvolvedor+de+Software;Estagi%C3%A1rio+na+Nav9;+Sou+de+Recife%2C+Brasil" alt="Typing SVG">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sou+Igor+Daniel+;Desenvolvedor+de+Software;Estagi%C3%A1rio+na+Nav9;+Sou+de+Recife%2C+Brasil" alt="Typing SVG" /></a>
-</div>
-
 <br><br><br>
 
 <div align="center">
