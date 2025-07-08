@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=header"/>
 
 <div align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27F732&background=C175FF00&width=600&height=60&separator=%3C&lines=Ol%C3%A1!+Sou+Igor+Daniel+.+.+.%3CDesenvolvedor+Backend+Junior+.+.+.%3CSou+de+Recife%2C+Brasil;](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sou+Igor+Daniel+;Desenvolvedor+de+Software;Estagi%C3%A1rio+na+Nav9;+Sou+de+Recife%2C+Brasil)](https://git.io/typing-svg)">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27F732&background=C175FF00&width=600&height=60&separator=%3C&lines=Ol%C3%A1!+Sou+Igor+Daniel+.+.+.%3CDesenvolvedor+Backend+Junior+.+.+.%3CSou+de+Recife%2C+Brasil;](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sou+Igor+Daniel+;Desenvolvedor+de+Software;Estagi%C3%A1rio+na+Nav9;+Sou+de+Recife%2C+Brasil">
 </div>
 
 <br><br><br>
