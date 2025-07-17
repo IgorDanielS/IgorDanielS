@@ -46,7 +46,7 @@
 <hr>
 
 <p align="left"> 
-➜ 💼 Atualmente estou a procura de emprego na área<br/>
+➜ 💼 Estagiário em desenvolvimento de software na Nav9<br/>
 ➜ 📚 Técnico em Análise e Desenvolvimento de Sistemas <br/>  
 ➜ 📚 Graduando em Sistemas para Internet, na Universidade Católica de Pernambuco<br/>	
 </p>
