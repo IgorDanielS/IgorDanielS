@@ -53,8 +53,8 @@
 
 <div align="left"> 
   <h2> Quer me contatar? </h2>
-  <a href = "mailto:igordaniel1903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igor.silva@nav9.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igordaniel1903@gmail.com"><img src="https://img.shields.io/badge/-Gmail Pessoal-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igor.silva@nav9.tech"><img src="https://img.shields.io/badge/-Gmail Profissional (Nav9)-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-daniel-a73037211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
