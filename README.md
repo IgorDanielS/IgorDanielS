@@ -5,12 +5,6 @@
 
 <br><br><br>
 
-<div align="center">
-  <a href="https://github.com/IgorDanielS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorDanielS&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDanielS&layout=compact">
-</div>
-
 <hr>
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; color: #27F732;">
